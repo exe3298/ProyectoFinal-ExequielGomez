@@ -1,7 +1,7 @@
 # Proyecto Final: Consultoría Técnica y Visual para Repuestos
 
 ## Resumen del Proyecto
-AutoPrecisión IA es una solución técnica diseñada para optimizar la comercialización de autopartes en plataformas digitales. El proyecto utiliza modelos de lenguaje y generación de imágenes técnicas para resolver la desconfianza del comprador y reducir la tasa de devoluciones por errores de compatibilidad. Mediante la validación técnica y la creación de diagramas funcionales, se busca profesionalizar el asesoramiento en el sector, garantizando transacciones precisas y seguras.
+Este proyecto es una solución técnica diseñada para optimizar la comercialización de autopartes en plataformas digitales. El proyecto utiliza modelos de lenguaje y generación de imágenes técnicas para resolver la desconfianza del comprador y reducir la tasa de devoluciones por errores de compatibilidad. Mediante la validación técnica y la creación de diagramas funcionales, se busca profesionalizar el asesoramiento en el sector, garantizando transacciones precisas y seguras.
 
 ## Diagnóstico y Solución
 * **Problemática:** La compra-venta de repuestos online se ve afectada por una alta tasa de devoluciones y baja conversión, derivadas de descripciones técnicas incompletas y material visual que induce al error.
