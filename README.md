@@ -15,9 +15,7 @@ Para garantizar la fiabilidad del sistema, se han aplicado las siguientes técni
 
 ## Estructura del Repositorio
 * `AutoPrecision_IA.ipynb`: Archivo principal con la implementación de la lógica y la ejecución de los prompts.
-* `diagrama_tecnico.jpg` (El soporte visual).
+* `diagrama_tecnico.jpg`: El soporte visual).
 
 ## Autor
 **Exequiel Gómez**
-Ingeniero Industrial / Especialista en Procesos Autopartistas
-Comisión: 95825 - Fast Prompting
