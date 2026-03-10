@@ -14,7 +14,7 @@ Para garantizar la fiabilidad del sistema, se han aplicado las siguientes técni
 - **Validación Profesional:** Supervisión directa basada en mi formación de ingeniería para asegurar la veracidad de cada resultado antes de su publicación.
 
 ## Estructura del Repositorio
-* `AutoPrecision_IA.ipynb`: Archivo principal con la implementación de la lógica y la ejecución de los prompts.
+* `ProyectoFinal_ExequielGomez.ipynb`: Archivo principal con la implementación de la lógica y la ejecución de los prompts.
 * `diagrama_tecnico.jpg`: El soporte visual).
 
 ## Autor
