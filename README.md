@@ -15,7 +15,6 @@ Para garantizar la fiabilidad del sistema, se han aplicado las siguientes técni
 
 ## Estructura del Repositorio
 * `AutoPrecision_IA.ipynb`: Archivo principal con la implementación de la lógica y la ejecución de los prompts.
-* `diagrama_tecnico.jpg`: Registro visual del esquema de instalación generado.
 * `Preentrega_2_Documento.pdf`: Documentación con el análisis de iteración y feedback del proceso.
 
 ## Autor
